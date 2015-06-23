@@ -1,0 +1,26 @@
+{
+  "name": "foxxsupertest",
+  "version": "0.0.2",
+  "description": "HTTP assertions adopted from Supertest for ArangoDB Foxx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "supertest",
+    "foxx",
+    "arangodb",
+    "api",
+    "test"
+  ],
+  "author": "Omar Al-Safi <omarsmak@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedgerio/foxxsupertest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fedgerio/foxxsupertest/issues"
+  },
+  "homepage": "https://github.com/fedgerio/foxxsupertest#readme"
+}

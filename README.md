@@ -1,6 +1,9 @@
 # FoxxSupertest
 HTTP assertions adopted from [Supertest](https://github.com/visionmedia/supertest#supertest-) for ArangoDB Foxx
 
+# About
+[Foxx](https://www.arangodb.com/foxx/) is a great Javascript framework built inside ArangoDB's server, this makes the queries to the database amazingly fast over the ordinary driver, for example Node.Js. However, provding high-level abstraction for testing HTTP is the aim for this module, which allows the developer to focus more on a faster development cycle.
+
 
 ## Requirements
 You will need to have **at least ArangoDb 2.6** installed.

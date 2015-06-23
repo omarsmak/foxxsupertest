@@ -1,6 +1,6 @@
 {
   "name": "foxxsupertest",
-  "version": "0.4",
+  "version": "0.0.4",
   "description": "HTTP assertions adopted from Supertest for ArangoDB Foxx",
   "main": "index.js",
   "scripts": {

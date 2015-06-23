@@ -3,7 +3,7 @@ HTTP assertions adopted from [Supertest](https://github.com/visionmedia/supertes
 
 
 ## Requirements
-You will need to have at least **ArangoDb 2.6** installed.
+You will need to have **at least ArangoDb 2.6** installed.
 
 
 
